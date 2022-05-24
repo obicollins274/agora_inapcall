@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1057680957243-kg1b7lfggu80jl2l87fkm8tguf10lrj7.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bikeapp-6d1fc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1057680957243</string>
+    <string name="google_api_key" translatable="false">AIzaSyAojqgYWW1H-J6z5DdCGKlnoYq5DOaRm7k</string>
+    <string name="google_app_id" translatable="false">1:1057680957243:android:81ec502185e82fdd0da11e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAojqgYWW1H-J6z5DdCGKlnoYq5DOaRm7k</string>
+    <string name="google_storage_bucket" translatable="false">bikeapp-6d1fc.appspot.com</string>
+    <string name="project_id" translatable="false">bikeapp-6d1fc</string>
+</resources>
